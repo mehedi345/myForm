@@ -1,0 +1,92 @@
+body{
+    margin:0px;
+    padding:0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#insta{
+    text-align: center;
+    font-family: 'Great Vibes', cursive;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+#form-para{
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+    color:#696969cf;}
+#icon{
+    text-align: center;
+    background-color: 1px solid none;
+    background-color: #004fd4f2;
+    color:white;
+    font-size: 16px;
+    margin:auto;
+    width:270px;
+    border-radius: 5px;
+    padding:5px;
+}
+#form{
+    border:1px solid dimgray;
+    width: 400px;
+    height: 540px;
+    margin:auto;
+    
+    
+}
+.label{
+    display: block;
+    text-align: center;
+    margin:8px 0px 8px 0px;
+}
+#form input{
+    display: block;
+    width:80%;
+    margin-left:9%;
+    margin-right:5%;
+    background-color:#69696908;
+}
+#fname, #email, #password{
+    border-radius: 5px;
+    height: 35px;
+    margin:auto ;
+    border-color:rgb(235, 231, 231);
+
+   
+}
+#btn[type="submit"]{
+    background-color: #02dbe281;
+    color:white;
+    margin-top:10px;
+    font-size: 18px;
+    font-weight: bolder;
+    padding:10px 0px 10px 0px;
+    border-radius:5px;
+    width:80%;
+    border-color:rgba(235, 231, 231, 0.959);
+}
+input:placeholder{
+    font-size:15px;
+}
+#span{
+    font-size: 14px;
+    text-align: center;
+    width:300px;
+    color:gray;
+    margin:5px auto;
+}
+#span span{
+    font-weight: bold;
+}
+#div{
+    width:350px;
+    margin:auto;
+    border:1px solid black;
+    margin-top: 10px;
+    padding:25px;
+    text-align: center;
+}
+#div a{
+    text-decoration: none;
+}
